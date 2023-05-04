@@ -6,7 +6,7 @@ import numpy as np
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
 from PIL import Image
-from streamlit_star_rating import st_star_rating
+# from streamlit_star_rating import st_star_rating
 
 import io
 
