@@ -1,92 +1,92 @@
-﻿name,method,garnish,Notes,Ingredient 1,Ingredient 2,Ingredient 3,Ingredient 4,Ingredient 5,,,Fruity,Creamy,Boozy,Light,Bubbly,Classic,Smokey,Floral,Herbal,Shot,Warm,Extras,Any,Base Alc
-Sweet Pink Martini,Shaken,strawberry,optional double strain,2 small strawberries,2 raspberries,1.5 oz vodka,1/2 oz Orange liqueur,1.5 oz sour mix,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
-Sweet Martini,Stirred,garnish cocktail cherry,,2 oz gin,1 oz sweet vermouth,,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,gin
-Paper Plane,Shaken,None,,1 oz amaro,1 oz bourbon,1 oz sweet vermouth,1 oz lemon juice,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,bourbon
-Moscow Mule,Stirred (in glass),Lime Wedge`,,1.5 oz vodka,1/6 oz lime juice,4 oz ginger beer,,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
-Old Fashion,Stirred (in glass),,all the variation,2 oz whiskey,1/4 oz syrup,3-4 dashes bitters,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,whiskey
-Espresso Martini,Shaken,,,1 shot espresso,1.5 oz milk of choice,1.5 oz creme liqueur,1/4 oz rakomelo,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,liqueur
-Margarita,Shaken,lime wheel,all the variation,1.5 oz Tequila,1 oz Orange Liqueur,3/4 oz lime juice,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,tequila
-Peary Fairy,Shaken,,,1.5 oz pear juice,1/2 oz bourbon,1 oz spice rum,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,rum
-tinto de verano,batch,do it yourself,,lemon soda,red wine,lemon,orange (the color),optional sweet vermouth,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,wine
-strawberry daquiri,blended batch (yields 4),lime wheel,,1 lbs strawberries,3 oz simple syrup,2 oz lemon juice,8 oz white/light rum,1 cup ice,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,rum
-cherry vodka sour,shaken,speared marachino,,1.5 oz vodka,0.5 oz cherry vodka,2 oz sour mix,2 dash bitters,egg white or aquafaba,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
-Peach Margarita,shaken,,,1.5 oz Tequila,0.5 oz Orange Liqueur,0.5 oz peach shnapps,0.5 oz lime juice,muddled peach,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,tequila
-Aperol spritz,stirred,Orange slice,,2 oz aperol,2 oz prosecco,splash club soda,,,,,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,aperitif
-grapefruit old fashioned,stirred (in glass),,,2.0 oz bourbon,0.25 oz grapefruit syrup,smoked grapefruit bitters,,,,,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,bourbon
-NU23,shake that citrus,flute,,1 oz Gin,0.5 oz lemon,0.33 oz simple syrup,2 oz champange,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,gin
-old cuban cocktail,,mint,,1.5 oz Aged Rum,0.75 oz lime,0.75 oz simple syrup,6 mint,bitters,2 oz champane,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,rum
-Negroni Sbagliato,stir,orange twist,on the rocks,1 oz vermouth,1 oz campari,1 oz champagne,,,,,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,aperitif
-New York Sour,in glass,,float wine on top,2 oz Bourbon,1 oz lemon juice,0.5 oz simple syrup,1 oz dry red,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,bourbon
-The Russian,Shaken,Naked man,martini,3 oz Vodka,1 oz pickle juice,0.5 oz dry vermouth,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
-The Jew,Shaken,,,2 oz Apple Whiskey,1 oz Cider,0.5 oz Honey syrup,cinnamon,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,whiskey
-The B-Day Girl,in bowl,,Fish Bowl,4 pt Jew,4 pt russian,4 pt OJ,2 pt white rum,3 pt bubbles,2 pt lime,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,all
-$ublord,Layered,,,grenadine,OJ,crème de menthe,Gin,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,gin
-Vertigo,Layered,,,grenadine,OJ,crème de menthe,tequila,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,tequila
-Homewrecker,,,,"2x0.25 oz Flowers (violet, elder)","2x1 oz Sexless beach (OJ, Cran)","4x0.25 Leg spreader (gin, rum, vodka, tequila)",,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,all
-Sleigh Balls,,,,eggnog liquer,apple whiskey,boba,cinnamon,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,whiskey
-"Good Morning, Good Night",,,,1 shot espresso,eggnog liquer,absinthe,a warm spice,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,liqueur
-Love & Murder,,,,1 oz campari,1 oz green chartreuse,1 oz lime juice,3/4 oz simple syrup,4 drops saline solution,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,aperitif
-Naked & Famous,,,,3/4 oz mezcal,3/4 oz green chartreuse,3/4 oz aperol,3/4 oz lime juice,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,mezcal
-Pissa,Decanter,,,White wine,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,wine
-ISEC 1,,,,fruit,lime,syrup,vodka,club sode,butterfly pea tea top,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,vodka
-#LikeAHusky,,Rainbow shots,,,"Blue curacau, skill",grenadine,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,liqueur
-the ISEC 2,,,,butterfly pea tea,vodka,"black berry, rasp berry, kiwi berry",,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,vodka
-Aounski,,,,vodka,rose syrup,coconut water,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
-Co-op program (Spring),,,,growing up,a little,Caprisun,tequila,,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,tequila
-Co-op program (Fall),,,,growing up,a little,Caprisun ,rum,,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,rum
-SAIL,,,,nobody wants it,but you might learn something,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,all
-Simmons,,,,Fruity,kinda fun,bit pretencious,,light tequila,campari,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,tequila
-Housing crisis,,,,Gentrified cocktail,Old drink but sped up,Whiskey with a flower on top,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,all
-Plus One,,Extra shot of some thing,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,all
-Miami Vice,,Daq + pina,,,Rum,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,rum
-London,,The bramble,,Gin, creme de mure,,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,gin
-NUIN Boston,,,,Tea,Party,Mollasis Massacre,,"cognac, tea, molassis syrup, orange liq?",,Boston,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,cognac
-Seattle,,,,pine Espresso martini,Coffee,space needles,Grunge,"Whiskey, coffee, pine syrup",,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,whiskey
-Toronto,,,,Whiskey,Fernet Branca,,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,whiskey
-Portland,,,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,beer
-Segovia,,Sangria,,,,,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,wine
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
+﻿name,method,garnish,Notes,Ingredient 1,Ingredient 2,Ingredient 3,Ingredient 4,Ingredient 5,,,Fruity,Creamy,Boozy,Light,Bubbly,Classic,Smokey,Floral,Herbal,Shot,Warm,Sharing,Extras,All,Base Alc
+Sweet Pink Martini,Shaken,strawberry,optional double strain,2 small strawberries,2 raspberries,1.5 oz vodka,1/2 oz Orange liqueur,1.5 oz sour mix,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
+Sweet Martini,Stirred,garnish cocktail cherry,,2 oz gin,1 oz sweet vermouth,,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,gin
+Paper Plane,Shaken,None,,1 oz amaro,1 oz bourbon,1 oz sweet vermouth,1 oz lemon juice,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,bourbon
+Moscow Mule,Stirred (in glass),Lime Wedge`,,1.5 oz vodka,1/6 oz lime juice,4 oz ginger beer,,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
+Old Fashion,Stirred (in glass),,all the variation,2 oz whiskey,1/4 oz syrup,3-4 dashes bitters,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,whiskey
+Espresso Martini,Shaken,,,1 shot espresso,1.5 oz milk of choice,1.5 oz creme liqueur,1/4 oz rakomelo,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,liqueur
+Margarita,Shaken,lime wheel,all the variation,1.5 oz Tequila,1 oz Orange Liqueur,3/4 oz lime juice,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,tequila
+Peary Fairy,Shaken,,,1.5 oz pear juice,1/2 oz bourbon,1 oz spice rum,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,rum
+tinto de verano,batch,do it yourself,,lemon soda,red wine,lemon,orange (the color),optional sweet vermouth,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,wine
+strawberry daquiri,blended batch (yields 4),lime wheel,,1 lbs strawberries,3 oz simple syrup,2 oz lemon juice,8 oz white/light rum,1 cup ice,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,rum
+cherry vodka sour,shaken,speared marachino,,1.5 oz vodka,0.5 oz cherry vodka,2 oz sour mix,2 dash bitters,egg white or aquafaba,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
+Peach Margarita,shaken,,,1.5 oz Tequila,0.5 oz Orange Liqueur,0.5 oz peach shnapps,0.5 oz lime juice,muddled peach,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,tequila
+Aperol spritz,stirred,Orange slice,,2 oz aperol,2 oz prosecco,splash club soda,,,,,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,aperitif
+grapefruit old fashioned,stirred (in glass),,,2.0 oz bourbon,0.25 oz grapefruit syrup,smoked grapefruit bitters,,,,,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,bourbon
+NU23,shake that citrus,flute,,1 oz Gin,0.5 oz lemon,0.33 oz simple syrup,2 oz champange,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,gin
+old cuban cocktail,,mint,,1.5 oz Aged Rum,0.75 oz lime,0.75 oz simple syrup,6 mint,bitters,2 oz champane,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,rum
+Negroni Sbagliato,stir,orange twist,on the rocks,1 oz vermouth,1 oz campari,1 oz champagne,,,,,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,aperitif
+New York Sour,in glass,,float wine on top,2 oz Bourbon,1 oz lemon juice,0.5 oz simple syrup,1 oz dry red,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,bourbon
+The Russian,Shaken,Naked man,martini,3 oz Vodka,1 oz pickle juice,0.5 oz dry vermouth,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
+The Jew,Shaken,,,2 oz Apple Whiskey,1 oz Cider,0.5 oz Honey syrup,cinnamon,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,whiskey
+The B-Day Girl,in bowl,,Fish Bowl,4 pt Jew,4 pt russian,4 pt OJ,2 pt white rum,3 pt bubbles,2 pt lime,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,all
+$ublord,Layered,,,grenadine,OJ,crème de menthe,Gin,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,gin
+Vertigo,Layered,,,grenadine,OJ,crème de menthe,tequila,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,tequila
+Homewrecker,,,,"2x0.25 oz Flowers (violet, elder)","2x1 oz Sexless beach (OJ, Cran)","4x0.25 Leg spreader (gin, rum, vodka, tequila)",,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,all
+Sleigh Balls,,,,eggnog liquer,apple whiskey,boba,cinnamon,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,whiskey
+"Good Morning, Good Night",,,,1 shot espresso,eggnog liquer,absinthe,a warm spice,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,liqueur
+Love & Murder,,,,1 oz campari,1 oz green chartreuse,1 oz lime juice,3/4 oz simple syrup,4 drops saline solution,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,aperitif
+Naked & Famous,,,,3/4 oz mezcal,3/4 oz green chartreuse,3/4 oz aperol,3/4 oz lime juice,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,mezcal
+Pissa,Decanter,,,White wine,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,wine
+ISEC 1,,,,fruit,lime,syrup,vodka,club soda,butterfly pea tea top,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
+#LikeAHusky,,Rainbow shots,,,"Blue curacau, skill",grenadine,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,liqueur
+the ISEC 2,,,,butterfly pea tea,vodka,"black berry, rasp berry, kiwi berry",,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
+Aounski,,,,vodka,rose syrup,coconut water,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,vodka
+Co-op program (Spring),,,,growing up,a little,Caprisun,tequila,,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,tequila
+Co-op program (Fall),,,,growing up,a little,Caprisun ,rum,,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,rum
+SAIL,,,,nobody wants it,but you might learn something,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,all
+Simmons,,,,Fruity,kinda fun,bit pretencious,,light tequila,campari,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,tequila
+Housing crisis,,,,Gentrified cocktail,Old drink but sped up,Whiskey with a flower on top,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,all
+Plus One,,Extra shot of some thing,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,all
+Miami Vice,,Daq + pina,,,Rum,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,rum
+London,,The bramble,,Gin, creme de mure,,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,gin
+NUIN Boston,,,,Tea,Party,Mollasis Massacre,,"cognac, tea, molassis syrup, orange liq?",,Boston,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,cognac
+Seattle,,,,pine Espresso martini,Coffee,space needles,Grunge,"Whiskey, coffee, pine syrup",,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,whiskey
+Toronto,,,,Whiskey,Fernet Branca,,,,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,whiskey
+Portland,,,,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,beer
+Segovia,,Sangria,,,,,,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,wine
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
