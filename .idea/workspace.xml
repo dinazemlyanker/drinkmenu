@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fffc9469-b90d-4a53-b009-defe12ae4abb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/drink_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/drink_menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drinks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/drinks.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683131842614</updated>
       <workItem from="1683131845536" duration="1814000" />
-      <workItem from="1683212363002" duration="15793000" />
+      <workItem from="1683212363002" duration="15880000" />
     </task>
     <servers />
   </component>
