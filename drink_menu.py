@@ -3,7 +3,7 @@ from collections import defaultdict
 import streamlit as st
 import pandas as pd
 import numpy as np
-from streamlit_option_menu import option_menu
+# from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
 from PIL import Image
 # from streamlit_star_rating import st_star_rating
@@ -16,10 +16,12 @@ st.title('Drink Menu')
 @st.cache_data
 def load_data(nrows):
     data = pd.read_csv('drinks.csv', nrows=nrows)
+    data = data[30:46]
     return data
 
 
 rating_dict = defaultdict(list)
+
 
 
 def write_drink_buttons(df):
@@ -43,6 +45,7 @@ def write_drink_buttons(df):
 
 data = load_data(46)
 
+
 text_search = st.text_input("Search All Drinks", value="", key="text")
 
 # Filter the dataframe using masks
@@ -64,37 +67,39 @@ st.button(':green[Clear Search]', on_click=clear_text)
 
 if text_search:
     write_drink_buttons(df_search)
-
-with st.sidebar:
-    vibe_choice = option_menu("Vibe", ["All", "Fruity", "Creamy", "Boozy", "Light", "Bubbly",
-                                       "Floral", "Herbal", "Shot", "Smokey", "Warm", "Extras",
-                                       "Sharing"],
-                              default_index=0,
-                              styles={
-                                  "container": {"padding": "5!important", "background-color": "#023020"},
-                                  "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                               "--hover-color": "#000000"},
-                                  "nav-link-selected": {"background-color": "#02ab21"},
-                              }
-                              )
-with st.sidebar:
-    alc_choice = option_menu("Base Alcohol", ["All", "Vodka", "Gin", "Rum", "Whiskey", "Bourbon", "Aperitif",
-                                              "Liqueur", "Mezcal", "Wine", "Cognac", "Beer"],
-                             default_index=0,
-                             styles={
-                                 "container": {"padding": "5!important", "background-color": "#023020"},
-                                 "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                              "--hover-color": "#000000"},
-                                 "nav-link-selected": {"background-color": "#02ab21"},
-                             }
-                             )
-
-filtered_for_choices = data[data[vibe_choice] == True]
-filtered_copy = pd.DataFrame.copy(filtered_for_choices)
-if alc_choice != 'All':
-    filtered_for_secondary_choice = filtered_copy[filtered_copy['Base Alc'] == alc_choice.lower()]
 else:
-    filtered_for_secondary_choice = pd.DataFrame.copy(filtered_copy)
+    write_drink_buttons(data)
 
-if not text_search:
-    write_drink_buttons(filtered_for_secondary_choice)
+# with st.sidebar:
+#     vibe_choice = option_menu("Vibe", ["All", "Fruity", "Creamy", "Boozy", "Light", "Bubbly",
+#                                        "Floral", "Herbal", "Shot", "Smokey", "Warm", "Extras",
+#                                        "Sharing"],
+#                               default_index=0,
+#                               styles={
+#                                   "container": {"padding": "5!important", "background-color": "#023020"},
+#                                   "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+#                                                "--hover-color": "#000000"},
+#                                   "nav-link-selected": {"background-color": "#02ab21"},
+#                               }
+#                               )
+# with st.sidebar:
+#     alc_choice = option_menu("Base Alcohol", ["All", "Vodka", "Gin", "Rum", "Whiskey", "Bourbon", "Aperitif",
+#                                               "Liqueur", "Mezcal", "Wine", "Cognac", "Beer"],
+#                              default_index=0,
+#                              styles={
+#                                  "container": {"padding": "5!important", "background-color": "#023020"},
+#                                  "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+#                                               "--hover-color": "#000000"},
+#                                  "nav-link-selected": {"background-color": "#02ab21"},
+#                              }
+#                              )
+#
+# filtered_for_choices = data[data[vibe_choice] == True]
+# filtered_copy = pd.DataFrame.copy(filtered_for_choices)
+# if alc_choice != 'All':
+#     filtered_for_secondary_choice = filtered_copy[filtered_copy['Base Alc'] == alc_choice.lower()]
+# else:
+#     filtered_for_secondary_choice = pd.DataFrame.copy(filtered_copy)
+#
+# if not text_search:
+#     write_drink_buttons(filtered_for_secondary_choice)
